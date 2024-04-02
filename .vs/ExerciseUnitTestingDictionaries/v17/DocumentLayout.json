@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\6. Unit Testing Exercise Dictionaries, Lambda and LINQ\\06-Resources-Unit-Testing-Exercise-Dictionaries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\6. unit testing exercise dictionaries, lambda and linq\\06-resources-unit-testing-exercise-dictionaries\\testapp.tests\\plantstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\plantstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\6. unit testing exercise dictionaries, lambda and linq\\06-resources-unit-testing-exercise-dictionaries\\testapp.tests\\minertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\minertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\6. unit testing exercise dictionaries, lambda and linq\\06-resources-unit-testing-exercise-dictionaries\\testapp.tests\\orderstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\orderstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\6. unit testing exercise dictionaries, lambda and linq\\06-resources-unit-testing-exercise-dictionaries\\testapp.tests\\oddoccurrencestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\oddoccurrencestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlantsTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\6. Unit Testing Exercise Dictionaries, Lambda and LINQ\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\PlantsTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\PlantsTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\6. Unit Testing Exercise Dictionaries, Lambda and LINQ\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\PlantsTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\PlantsTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:07:24.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\6. Unit Testing Exercise Dictionaries, Lambda and LINQ\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\OrdersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\OrdersTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\6. Unit Testing Exercise Dictionaries, Lambda and LINQ\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\OrdersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\OrdersTests.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAADkAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:59:57.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinerTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\6. Unit Testing Exercise Dictionaries, Lambda and LINQ\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\MinerTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\MinerTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\6. Unit Testing Exercise Dictionaries, Lambda and LINQ\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\MinerTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\MinerTests.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:55:37.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OddOccurrencesTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\6. Unit Testing Exercise Dictionaries, Lambda and LINQ\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\OddOccurrencesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\OddOccurrencesTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\6. Unit Testing Exercise Dictionaries, Lambda and LINQ\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\OddOccurrencesTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\OddOccurrencesTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:56:43.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
